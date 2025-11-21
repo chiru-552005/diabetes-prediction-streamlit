@@ -12,3 +12,25 @@ This project is a machine learning–based Diabetes Prediction System built usin
 - Easy deployment to GitHub & Streamlit Cloud  
 
 ---
+
+---
+
+## 🛠️ Technologies Used
+- Python  
+- Streamlit  
+- Scikit-learn  
+- Pandas, NumPy  
+- Joblib  
+- Matplotlib (optional)  
+
+---
+
+## 🔧 How to Run This Project Locally
+
+### **1. Install Python**
+Make sure Python 3.11+ is installed.
+
+### **2. Open terminal inside project folder**
+Example:
+```bash
+cd C:\Users\chira\Downloads\diabetes-prediction-streamlit-repo
